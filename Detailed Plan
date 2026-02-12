@@ -1,0 +1,5 @@
+Steps
+
+Task: Create a upload functionality , use NLP to process 500 page pdf and Analyze, do anaylysis and synopsis- Use Langchain 
+Langsmith for logging
+Chroma Vector database
